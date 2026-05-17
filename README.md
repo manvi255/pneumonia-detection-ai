@@ -150,21 +150,18 @@ This improved:
 while maintaining strong pneumonia detection performance.
 
 ---
-
 # Final Results
 
-| Metric   | Score  |
-| -------- | ------ |
-| Accuracy | 89.74% |
-| F1 Score | 0.922  |
+| Metric | Value |
+|---|---|
+| Accuracy | 90.87% |
+| F1 Score | 0.929 |
 
 ## Confusion Matrix
 
 ```text
-[[181  53]
- [ 11 379]]
-```
-
+[[192  42]
+ [ 15 375]]
 ---
 
 # Explainable AI (Grad-CAM)
