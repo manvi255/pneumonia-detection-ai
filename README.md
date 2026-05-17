@@ -162,6 +162,7 @@ while maintaining strong pneumonia detection performance.
 ```text
 [[192  42]
  [ 15 375]]
+```
 ---
 
 # Explainable AI (Grad-CAM)
