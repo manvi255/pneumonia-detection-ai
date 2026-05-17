@@ -185,6 +185,8 @@ Features of deployed application:
 * Grad-CAM heatmaps
 * Professional medical dashboard UI
 
+https://pneumonia-detection-ai-lugk3pvatradvssy3ka3xq.streamlit.app/
+
 ---
 
 # Tech Stack
